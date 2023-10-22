@@ -1,0 +1,5 @@
+This week I looked into the Node JS framework.
+Node.js is an open source runtime enviroment that allows a developer to run Javascript code on a web browser.
+Node contains multiple libraries that allow for the simplification of many Javascript functions.
+Node is commonly used to create webservers and APIs meaning its ideal for testing out pages and funtions of our system.
+It is for these reasons I've laid out that I recommend we use Node.js when creating our project.
